@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:id="@+id/base_layout"
+  android:layout_width="75dp"
+  android:layout_height="75dp"
+  android:orientation="vertical"
+  android:gravity="center">
+
+  <de.hdodenhof.circleimageview.CircleImageView
+    android:id="@+id/toggle_nfc_imageview"
+    android:layout_width="75dp"
+    android:layout_height="75dp"
+    android:src="@drawable/ic_nfc_on"/>
+
+</LinearLayout>

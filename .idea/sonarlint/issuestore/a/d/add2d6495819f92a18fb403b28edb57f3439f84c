@@ -1,0 +1,18 @@
+
+>squid:S1068"'Remove this unused "TAG" private field.(Ö—ÈÚ
+Xsquid:UselessImportCheck"4Remove this unused import 'android.content.Context'.(©Ê‰è
+Usquid:UselessImportCheck
+"1Remove this unused import 'android.os.AsyncTask'.(À»¥—
+^squid:UselessImportCheck":Remove this unused import 'android.widget.CompoundButton'.(®½¤Þ
+vsquid:UselessImportCheck"RRemove this unused import 'android.widget.CompoundButton.OnCheckedChangeListener'.(©—ª£
+hsquid:UselessImportCheck"?Remove this unused import 'android.graphics.drawable.Drawable'.(Á‰º„ùÿÿÿÿ
+\squid:UselessImportCheck"8Remove this unused import 'com.symbol.emdk.EMDKResults'.(ÊÝ°µ
+dsquid:UselessImportCheck";Remove this unused import 'com.symbol.emdk.ProfileManager'.(ËÉ¸žúÿÿÿÿ
+bsquid:UselessImportCheck"?Remove this unused import 'android.support.v7.app.AlertDialog'.(È­˜ 
+Ysquid:UselessImportCheck"5Remove this unused import 'com.bumptech.glide.Glide'.(Ñˆ…Ë
+Wsquid:UselessImportCheck".Remove this unused import 'android.view.View'.(Ø½­äþÿÿÿÿ
+\squid:UselessImportCheck	"3Remove this unused import 'android.nfc.NfcManager'.(¦„Ýÿúÿÿÿÿ
+\squid:UselessImportCheck"3Remove this unused import 'android.nfc.NfcAdapter'.(ñ¤¤Ïúÿÿÿÿ
+\squid:UselessImportCheck"8Remove this unused import 'android.widget.ToggleButton'.(Ôí°ã
+Vsquid:UselessImportCheck"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ
+gsquid:UselessImportCheck">Remove this unused import 'android.view.View.OnClickListener'.(„û°™ýÿÿÿÿ

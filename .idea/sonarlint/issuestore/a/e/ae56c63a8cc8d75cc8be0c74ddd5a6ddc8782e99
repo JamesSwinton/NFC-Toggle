@@ -1,0 +1,9 @@
+
+U"squid:SwitchLastCaseIsDefaultCheckm""Add a default case to this switch.(ãÁğ™øÿÿÿÿ
+Rsquid:S2696:"6Make the enclosing method "static" or remove this set.(¢”äûÿÿÿÿ
+Rsquid:S2696X"6Make the enclosing method "static" or remove this set.(Îö˜šûÿÿÿÿ
+Ssquid:S2696Ó"6Make the enclosing method "static" or remove this set.(¢”äûÿÿÿÿ
+squid:S1186+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‘Ï Îøÿÿÿÿ
+^squid:UselessImportCheck"5Remove this unused import 'android.widget.ImageView'.(ú¯ëàüÿÿÿÿ
+Zsquid:UselessImportCheck"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ
+msquid:UselessImportCheck"DRemove this unused import 'android.view.WindowManager.LayoutParams'.(É Œ¼şÿÿÿÿ
